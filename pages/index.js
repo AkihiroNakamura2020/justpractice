@@ -79,6 +79,7 @@ imagemargin:{
 
 
 export default function Index() {
+  
 
   const [notes,setNotes]=useState([])//([])
   const classes=useStyles()
